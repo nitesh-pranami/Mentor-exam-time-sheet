@@ -1,2 +1,2 @@
-# Mentor-exam-time-sheet
+# Mentor-exam-time-web page
 simple web page for timed exam 
